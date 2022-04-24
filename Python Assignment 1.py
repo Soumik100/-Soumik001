@@ -1,5 +1,5 @@
-23
-78
+
+
 # Question 1 Soln :
 number_1 = int(input("Enter first number: "))    #taking input from user as an integer
 number_2 = int(input("Enter second number: "))
