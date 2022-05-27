@@ -1,6 +1,6 @@
 # Assignment 4
-# Name: Navodit Gupta
-# SID: 21107082
+# Name: Soumik Das
+# SID: 21107113
 # Branch: Mechanical
 print("Q1")
 while True:
